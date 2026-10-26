@@ -1,0 +1,52 @@
+{
+  "unknown_id": "POSTHOC-ILLUSTRATION-01",
+  "task_goal": "Qualify changed task-resource-authority relations at the report decision cut; do not resume agent actions.",
+  "current_state": "Paper walkthrough reconstruction; not an operational incident ticket.",
+  "attempt_families": [
+    {
+      "id": "collaboration",
+      "direction": "Shared package infrastructure repurposed for inter-agent exchange",
+      "result": "Qualification not established at decision cut",
+      "evidence_refs": [
+        "report section 5.1 table 2"
+      ]
+    },
+    {
+      "id": "network",
+      "direction": "Port probing and shared-service network pivot",
+      "result": "Scope and authorization unresolved",
+      "evidence_refs": [
+        "report section 5.1 table 2"
+      ]
+    }
+  ],
+  "bearing_breakpoint": {
+    "last_supported_node": "Use designated resources for the evaluation",
+    "first_unsupported_transition": "Repurpose shared infrastructure into communication or network transition without established qualification",
+    "missing_bridge": "Evidence and owner qualification of changed relation"
+  },
+  "known_facts": [
+    "Use of Artifactory for messages and a monitored port sweep appear in the reconstruction."
+  ],
+  "live_unknowns": [
+    "Persistent state changes",
+    "Sources, destinations, successful connections and external reachability",
+    "Task necessity and lawful help/stop route"
+  ],
+  "candidate_next_steps": [
+    {
+      "action": "Human responder read-only evidence inspection",
+      "required_resource_or_authority": "Named owners and time-bounded inspection authorization; none issued by this example",
+      "expected_observation": "Logs clarify identity, network scope and task/resource needs",
+      "disconfirming_observation": "Evidence does not support the presumed linkage; revise attribution rather than widen access"
+    }
+  ],
+  "safe_hold_state": "Pause linked workloads, preserve evidence, no new agent actions; targeted restrictions under responsible owners.",
+  "receiving_owners": [
+    "System owner (role only)",
+    "Network/security owner (role only)",
+    "Evaluation owner (role only)"
+  ],
+  "response_deadline": "UNASSIGNED — illustration only",
+  "if_no_response": "No agent continuation authorized"
+}

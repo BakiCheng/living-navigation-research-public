@@ -1,0 +1,23 @@
+unknown_id: ""
+task_goal: ""
+current_state: ""
+attempt_families:
+  - id: ""
+    direction: ""
+    result: ""
+    evidence_refs: []
+bearing_breakpoint:
+  last_supported_node: ""
+  first_unsupported_transition: ""
+  missing_bridge: ""
+known_facts: []
+live_unknowns: []
+candidate_next_steps:
+  - action: ""
+    required_resource_or_authority: ""
+    expected_observation: ""
+    disconfirming_observation: ""
+safe_hold_state: ""
+receiving_owners: []
+response_deadline: ""
+if_no_response: ""

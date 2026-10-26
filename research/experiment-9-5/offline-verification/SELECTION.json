@@ -1,0 +1,48 @@
+{
+  "primary": [
+    "lab_8f_o",
+    "lab_8i_o"
+  ],
+  "runs": [
+    "FORMAL95_acct_neu_01",
+    "FORMAL95_acct_use_02",
+    "FORMAL95_lab_8f_o_01",
+    "FORMAL95_lab_8f_o_02",
+    "FORMAL95_lab_8f_o_03",
+    "FORMAL95_lab_8f_o_04",
+    "FORMAL95_lab_8f_o_05",
+    "FORMAL95_lab_8f_o_06",
+    "FORMAL95_lab_8f_o_07",
+    "FORMAL95_lab_8f_o_08",
+    "FORMAL95_lab_8f_o_09",
+    "FORMAL95_lab_8f_o_10",
+    "FORMAL95_lab_8i_o_01",
+    "FORMAL95_lab_8i_o_02",
+    "FORMAL95_lab_8i_o_03",
+    "FORMAL95_lab_8i_o_04",
+    "FORMAL95_lab_8i_o_05",
+    "FORMAL95_lab_8i_o_06",
+    "FORMAL95_lab_8i_o_07",
+    "FORMAL95_lab_8i_o_08",
+    "FORMAL95_lab_8i_o_09",
+    "FORMAL95_lab_8i_o_10",
+    "FORMAL95_lab_8k_o_10"
+  ],
+  "counterexamples": [
+    "FORMAL95_lab_8k_o_10",
+    "FORMAL95_lab_8f_o_08"
+  ],
+  "dynamic_examples": [
+    "FORMAL95_acct_neu_01",
+    "FORMAL95_acct_use_02"
+  ],
+  "source_code_sha256": {
+    "core_acct": "e56d005df52b80dbeb2333bba0c8a476bf54cacdf278026919ccc0da51ba16f9",
+    "c7_acct": "7f639c46e3cfc1bf968fbc4a7fafd1f3cf3bd57848db3d927d6ebd43af918d93",
+    "peer_acct": "72295b8d691aca9593cc00758960dfd5401dc454d5083eac6eb8419a81442817",
+    "core_lab": "c9fb8c316f5ea85a4775ab657fdd410465cf6c5cd2313987293d47687e175068",
+    "c7_lab": "487a86f4b1b23b62783000eb0c4029ff0e66444d89fc5f96c2c1bb807826633f",
+    "peer_lab": "ec18b01f2ca893f3cc2b55bcb447c530c72e0093ee93bd984d10a5becd7e751a",
+    "runner": "d282c2be8c9c012ed5542dd84e37080fc78aaa6fcd6686947781ae46e618b4f1"
+  }
+}

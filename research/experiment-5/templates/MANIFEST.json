@@ -1,0 +1,12 @@
+{
+  "report_sha256": "e94306593b5c936c8d58ff254a41ced8528c395dfce971dfa34634d5fb35eaf8",
+  "original_template_blocks_exact": true,
+  "examples": "post-hoc reconstruction, not issued authorization",
+  "files": {
+    "authorization-ticket.posthoc-example.yaml": "c4d0aa5bb485b08db8251bfc750be33457b92d7e33c638228cd9bb8d1311fd33",
+    "authorization-ticket.template.yaml": "6a8b779bbad054489dc7fb10f259fb63991e07b51c9f9f2c48de55c8611cf48a",
+    "README.md": "92cf023a33e5bd740c779da8c74c9b246ddf2999db5b5689859cbdce43b2306e",
+    "unknown-packet.posthoc-example.yaml": "fe6b0a507702d20cd8b959880406d5ead2ca7bd6c2aa494910b1e16e3e1def6a",
+    "unknown-packet.template.yaml": "09f5f8541f205a7e22046e12ffb33c415170feced581f8850aec04e85db771d4"
+  }
+}

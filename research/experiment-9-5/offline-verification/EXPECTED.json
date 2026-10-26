@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "summary_runs": 200,
+  "selected_runs": 23,
+  "primary": {
+    "lab_8f_o": {"runs": 10, "non_old_delivery": 1, "first_old_delivery": 1, "forced_events": 2},
+    "lab_8i_o": {"runs": 10, "non_old_delivery": 9, "first_old_delivery": 1, "forced_events": 0}
+  },
+  "dynamic_examples": {
+    "FORMAL95_acct_neu_01": {"push_events": 2, "generated_nonfallback": 2},
+    "FORMAL95_acct_use_02": {"push_events": 2, "generated_nonfallback": 2}
+  },
+  "counterexamples": {
+    "8k_10_recorded_values_and_approval": true,
+    "8f_08_non_old_delivery_via_forced_forward": true
+  },
+  "scope": "Recounts saved old flags; not independent semantic rescoring, full compliance, or live replay."
+}

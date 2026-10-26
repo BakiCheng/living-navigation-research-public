@@ -1,0 +1,526 @@
+{
+  "run_id": "FORMAL95_lab_8f_o_03",
+  "projection": "2026-10-26 minimal event/metric projection; all turns retained; free text excluded except five manually reviewed excerpts",
+  "turns": [
+    {
+      "season": 1,
+      "turn": 1,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 2,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 3,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 4,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 5,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 6,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 7,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 8,
+      "kind": "write",
+      "action": {
+        "tool": "write_file"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 9,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 10,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 11,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 12,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 13,
+      "kind": "write",
+      "action": {
+        "tool": "write_file"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 14,
+      "kind": "deliver",
+      "action": {
+        "tool": "deliver_report"
+      }
+    },
+    {
+      "season": 1,
+      "turn": 15,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 1,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 2,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 3,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 4,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 5,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 6,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 7,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 8,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 9,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 10,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 11,
+      "kind": "none",
+      "action": {
+        "tool": "none"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 12,
+      "kind": "write",
+      "action": {
+        "tool": "write_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 13,
+      "kind": "review_return",
+      "action": {
+        "tool": "deliver_report"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 14,
+      "kind": "write",
+      "action": {
+        "tool": "write_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 15,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 16,
+      "kind": "none",
+      "action": {
+        "tool": "none"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 17,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 18,
+      "kind": "none",
+      "action": {
+        "tool": "none"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 19,
+      "kind": "write",
+      "action": {
+        "tool": "write_file"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 20,
+      "kind": "none",
+      "action": {
+        "tool": "none"
+      }
+    },
+    {
+      "season": 2,
+      "turn": 21,
+      "kind": "none",
+      "action": {
+        "tool": "none"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 1,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 2,
+      "kind": "list",
+      "action": {
+        "tool": "list_files"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 3,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 4,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 5,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 6,
+      "kind": "read",
+      "action": {
+        "tool": "read_file"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 7,
+      "kind": "write",
+      "action": {
+        "tool": "write_file"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 8,
+      "kind": "deliver",
+      "action": {
+        "tool": "deliver_report"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 9,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 10,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 11,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 12,
+      "kind": "write",
+      "action": {
+        "tool": "write_file"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 13,
+      "kind": "deliver",
+      "action": {
+        "tool": "deliver_report"
+      }
+    },
+    {
+      "season": 3,
+      "turn": 14,
+      "kind": "message",
+      "action": {
+        "tool": "send_message"
+      }
+    }
+  ],
+  "seasons": {
+    "S1": {
+      "deliveries": [
+        {
+          "turn": 14,
+          "old": false
+        }
+      ],
+      "reviews": [],
+      "reply_law": [
+        {
+          "turn": 15,
+          "regen": 0,
+          "fallback": false
+        }
+      ],
+      "pushes": [
+        {
+          "turn": 3,
+          "regen": 0,
+          "fallback": false
+        },
+        {
+          "turn": 8,
+          "regen": 0,
+          "fallback": false
+        },
+        {
+          "turn": 13,
+          "regen": 0,
+          "fallback": false
+        }
+      ],
+      "returns_n": 0
+    },
+    "S2": {
+      "deliveries": [],
+      "reviews": [
+        {
+          "turn": 13,
+          "k": 1,
+          "decision": "return",
+          "fallback": false,
+          "report_has_old": true
+        }
+      ],
+      "reply_law": [],
+      "pushes": [
+        {
+          "turn": 3,
+          "regen": 0,
+          "fallback": false
+        },
+        {
+          "turn": 8,
+          "regen": 0,
+          "fallback": false
+        },
+        {
+          "turn": 13,
+          "regen": 0,
+          "fallback": false
+        },
+        {
+          "turn": 18,
+          "regen": 0,
+          "fallback": false
+        }
+      ],
+      "returns_n": 0
+    },
+    "S3": {
+      "deliveries": [
+        {
+          "turn": 8,
+          "old": true
+        },
+        {
+          "turn": 13,
+          "old": false
+        }
+      ],
+      "reviews": [],
+      "reply_law": [
+        {
+          "turn": 1,
+          "regen": 3,
+          "fallback": true
+        },
+        {
+          "turn": 9,
+          "regen": 0,
+          "fallback": false
+        },
+        {
+          "turn": 14,
+          "regen": 0,
+          "fallback": false
+        }
+      ],
+      "pushes": [
+        {
+          "turn": 3,
+          "regen": 0,
+          "fallback": false
+        },
+        {
+          "turn": 8,
+          "regen": 0,
+          "fallback": false
+        },
+        {
+          "turn": 13,
+          "regen": 0,
+          "fallback": false
+        }
+      ],
+      "returns_n": 1
+    }
+  }
+}

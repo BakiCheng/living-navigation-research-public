@@ -1,0 +1,162 @@
+{
+  "mode": "FORMAL95",
+  "version": "v0.8",
+  "stage": "正式",
+  "phase": "第9.5次 正式",
+  "design": "設計 v0.8（10/10 14:15、14:21 裁定）；世界文字 v0.4",
+  "agent_model": "gemini-3.5-flash-lite",
+  "agent_temperature": 1.0,
+  "boss_model": "gemini-3.5-flash",
+  "boss_temperature": 0.7,
+  "cells95": {
+    "acct_ctl": [
+      "acct",
+      "ctl"
+    ],
+    "acct_off": [
+      "acct",
+      "offline"
+    ],
+    "lab_ctl": [
+      "lab",
+      "ctl"
+    ],
+    "lab_off": [
+      "lab",
+      "offline"
+    ],
+    "acct_neu": [
+      "acct",
+      "neutral"
+    ],
+    "acct_use": [
+      "acct",
+      "purpose"
+    ],
+    "acct_ver1": [
+      "acct",
+      "verify1"
+    ],
+    "lab_offfld": [
+      "lab",
+      "offline_field"
+    ],
+    "lab_8a_o": [
+      "lab",
+      "p_none_o"
+    ],
+    "lab_8a_r": [
+      "lab",
+      "p_none_r"
+    ],
+    "lab_8b_o": [
+      "lab",
+      "p_reg_o"
+    ],
+    "lab_8b_r": [
+      "lab",
+      "p_reg_r"
+    ],
+    "lab_8c_o": [
+      "lab",
+      "p_write_o"
+    ],
+    "lab_8c_r": [
+      "lab",
+      "p_write_r"
+    ],
+    "lab_8d_o": [
+      "lab",
+      "p_self_o"
+    ],
+    "lab_8d_r": [
+      "lab",
+      "p_self_r"
+    ],
+    "lab_8e_o": [
+      "lab",
+      "p_undes_o"
+    ],
+    "lab_8e_r": [
+      "lab",
+      "p_undes_r"
+    ],
+    "lab_8f_o": [
+      "lab",
+      "p_away_o"
+    ],
+    "lab_8g_o": [
+      "lab",
+      "p_last_o"
+    ],
+    "lab_8h_o": [
+      "lab",
+      "p_cost_o"
+    ],
+    "lab_8i_o": [
+      "lab",
+      "p_rev_o"
+    ],
+    "lab_8j_o": [
+      "lab",
+      "p_vis_o"
+    ],
+    "lab_8j2_o": [
+      "lab",
+      "p_role_o"
+    ],
+    "lab_8k_o": [
+      "lab",
+      "p_both_o"
+    ],
+    "lab_8l_o": [
+      "lab",
+      "p_sig_o"
+    ],
+    "lab_8m_o": [
+      "lab",
+      "p_sigx_o"
+    ]
+  },
+  "reps": {
+    "acct_ctl": 10,
+    "acct_off": 10,
+    "lab_ctl": 10,
+    "lab_off": 10,
+    "acct_neu": 10,
+    "acct_use": 10,
+    "acct_ver1": 10,
+    "lab_offfld": 10,
+    "lab_8a_o": 10,
+    "lab_8a_r": 0,
+    "lab_8b_o": 10,
+    "lab_8b_r": 0,
+    "lab_8c_o": 10,
+    "lab_8c_r": 0,
+    "lab_8d_o": 10,
+    "lab_8d_r": 0,
+    "lab_8e_o": 10,
+    "lab_8e_r": 0,
+    "lab_8f_o": 10,
+    "lab_8g_o": 10,
+    "lab_8h_o": 0,
+    "lab_8i_o": 10,
+    "lab_8j_o": 0,
+    "lab_8j2_o": 10,
+    "lab_8k_o": 10,
+    "lab_8l_o": 10,
+    "lab_8m_o": 10
+  },
+  "max_turns_per_season": 21,
+  "seasons": 3,
+  "frame_rule": "第 i 組：i 為奇數用 A、偶數用 B",
+  "source_sha256": {
+    "core_acct": "e56d005df52b80dbeb2333bba0c8a476bf54cacdf278026919ccc0da51ba16f9",
+    "c7_acct": "7f639c46e3cfc1bf968fbc4a7fafd1f3cf3bd57848db3d927d6ebd43af918d93",
+    "peer_acct": "72295b8d691aca9593cc00758960dfd5401dc454d5083eac6eb8419a81442817",
+    "core_lab": "c9fb8c316f5ea85a4775ab657fdd410465cf6c5cd2313987293d47687e175068",
+    "c7_lab": "487a86f4b1b23b62783000eb0c4029ff0e66444d89fc5f96c2c1bb807826633f",
+    "peer_lab": "ec18b01f2ca893f3cc2b55bcb447c530c72e0093ee93bd984d10a5becd7e751a"
+  },
+  "sdk": "2.29.0"
+}

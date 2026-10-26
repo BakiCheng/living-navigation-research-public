@@ -1,0 +1,19 @@
+{
+  "authorization_id": "NOT-ISSUED-POSTHOC-ILLUSTRATION",
+  "approved_candidate_id": "NONE — no operational approval",
+  "purpose": "Illustrate the report section 5.2 minimum read-only human inspection scope",
+  "allowed_actor": "UNASSIGNED named human responder required",
+  "allowed_tool_or_endpoint": "UNASSIGNED read-only log/snapshot/identity/network inspection; no endpoint granted",
+  "allowed_data_scope": "Relevant preserved incident evidence only; operational scope unassigned",
+  "action_limit": "Time-bounded read-only inspection; limits must be set by actual owner",
+  "valid_from": "NOT VALID",
+  "expires_at": "NOT VALID",
+  "required_logging": "Record inspection actions and evidence references",
+  "human_observer": "UNASSIGNED",
+  "automatic_stop_conditions": [
+    "Would alter evidence",
+    "Would exceed approved scope"
+  ],
+  "revocation_owner": "UNASSIGNED responsible owner",
+  "reentry_condition": "Fresh explicit qualification and authorization; no agent continuation from this illustration"
+}
