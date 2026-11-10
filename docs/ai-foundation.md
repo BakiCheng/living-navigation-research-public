@@ -2516,7 +2516,7 @@ AI工程可沿這份關係追查：哪項運算已由哪個載體承接，局部
 | [四：測試器自限／雙迴路對帳](#appendix-engineering-self-limit) | [0.3](#reading-004)、[8.1](#reading-060)、[13.6](#reading-112)、[14.5](#reading-120)、[14.7](#reading-122) | 研究者修改環境不等於模型學會；多讀數與停止尺度各自留證 |
 | 閱讀說明／G08-8更新 | 閱讀稿說明（v0.1 L13）、14.7正文及其G08-8來源註 | v0.2當時進度另註；14.7作者確認文字與原形成史保持原樣 |
 | [五：共同底稿的承重與使用連接](#appendix-engineering-sufficiency) | [0.2](#reading-003)、[4.2](#reading-028)、[四權與承重](#reading-059)、[8.6](#reading-065)、[14.5](#reading-120)、[14.7](#reading-122) | 依實際支撐與斷點展開下一段工作，再由使用結果校準；設計者與受測角色分別留證 |
-| [六：動態承重全息場、跨季沉積退位與開放世界遞迴框架對位](#appendix-engineering-holographic-bearing) | [1.1](#reading-006)、[2.3](#reading-014)、[3.6](#reading-025)、[4.2](#reading-028)、[四權與承重](#reading-appendix-four-rights)、[8.1](#reading-060)、[13.6](#reading-114)、[14.1](#reading-116)–[14.7](#reading-122) | 承接E11～E13跨季沉積、五面向動態承重全息場、舊方案退位及與外部開放世界遞迴框架（如 Google Harness²）之對位 |
+| [六：動態承重全息場、跨季沉積退位與開放世界遞迴框架對位](#appendix-engineering-holographic-bearing) | [1.1](#reading-006)、[2.3](#reading-014)、[3.6](#reading-025)、[4.2](#reading-028)、[四權與承重](#reading-059)、[8.1](#reading-060)、[13.6](#reading-114)、[14.1](#reading-116)–[14.7](#reading-122) | 承接E11～E13跨季沉積、五面向動態承重全息場、舊方案退位及與外部開放世界遞迴框架（如 Google Harness²）之對位 |
 
 ### 文末註
 
