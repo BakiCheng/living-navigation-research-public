@@ -2,8 +2,6 @@
 
 **Baki Cheng｜作者與研究者**
 
-**2026-11-10 證據更正：** E13 的模式、數量與跨實驗歸屬已修訂；先前阻尼對照表及「15/15 全綠」結論撤回。請以[複核與更正說明](research/experiment-13/closure-report.md#correction-2026-11-10)為準。
-
 公開儲存庫：[living-navigation-research-public](https://github.com/BakiCheng/living-navigation-research-public)
 
 當原來可行的方法失效，我們如何重新看清自己、他人與環境的位置，找到有依據、有人承接的下一步？
