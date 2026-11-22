@@ -28,8 +28,8 @@ The documents are written in Traditional Chinese. Start with the [system map](do
 
 **未知迷霧中的動態導航 → AI版轉譯入口 → 實證脈絡與收束**
 
-1. **從認識自己與體系全景開始**：閱讀 [《生命導航學》體系發展參照地圖 v0.17](docs/system-development-map.md)。從日常情境與案例進入，認識母願景、3D 螺旋定位、定位與中介如何相互生成、AB 判準與動態承重，以及未知中的五環導航。附目錄、定位模型原圖與五環動線圖；完整母奠基文件仍為私人材料，不需先取得它才能閱讀本篇。
-2. **看它如何進入 AI 治理情境**：可先讀兩頁的[《AI版奠基文件》先讀這裡](docs/ai-foundation-guide.md)，再閱讀 [AI版奠基文件 v0.7](docs/ai-foundation.md) 的卷首、第零至十四部及附錄二。看這套思考如何轉譯為資格分流（`Candidate Path ≠ Action Qualification ≠ Fact Qualification`）、四權＋一承重約束、坡與橋的治理地形、動態承重全息場、跨季沉積退位，以及與外部開放世界遞迴框架（如 Google Harness²）之結構對位。
+1. **從認識自己與體系全景開始**：閱讀 [《生命導航學》體系發展參照地圖 v0.18](docs/system-development-map.md)。從日常情境與案例進入，認識母願景、3D 螺旋定位、定位與中介如何相互生成、AB 判準與動態承重，以及未知中的五環導航。附目錄、定位模型原圖與五環動線圖；完整母奠基文件仍為私人材料，不需先取得它才能閱讀本篇。
+2. **看它如何進入 AI 治理情境**：可先讀兩頁的[《AI版奠基文件》先讀這裡](docs/ai-foundation-guide.md)，再閱讀 [AI版奠基文件 v0.8](docs/ai-foundation.md) 的卷首、第零至十四部及附錄二。看這套思考如何轉譯為資格分流（`Candidate Path ≠ Action Qualification ≠ Fact Qualification`）、四權＋一承重約束、坡與橋的治理地形、動態承重全息場、跨季沉積退位，以及與外部開放世界遞迴框架（如 Google Harness²）之結構對位。
 3. **沿實證脈絡看概念如何受檢**：沿 [實驗脈絡重力帳](research/research-ledger.md#ledger-ch-1) 檢視自第一至第十四次實驗（E1～E14）的研究演變、哪些結果改變了理解、何時建立雙讀數，以及各階段的收束。最新的 [E14 結案補錄](research/research-ledger.md#e14-closure-20261113) 區分工程修正、行為觀察與尚未測得的治理效果。
 
 如果你關心人或智慧體如何在未知處境中形成判斷，或希望一起把這些動態關係轉成可閱讀、可使用的作品，可以由這條路進入。
@@ -71,7 +71,13 @@ The documents are written in Traditional Chinese. Start with the [system map](do
 
 ## 文件與版本
 
-最近更新日期：**2026-11-20**（AI 版奠基文件 v0.7、體系地圖 v0.17）。
+最近更新日期：**2026-11-22**（AI 版奠基文件 v0.8、體系地圖 v0.18）。
+- [《AI版奠基文件》v0.8（Claude 版）](docs/ai-foundation.md)：附錄二新增第八節「門樞、共同底稿與承重」：樞不屬於任何一端；共同底稿分物理事實與故事兩層，且不等於承重度；承重相對於此刻要走的一步；成功也拿回原目的對帳；並列出各自的工程含意（均未實作）。§13.7 停車位會勘一段依作者校正改寫；附錄二第五節加補註。不新增實驗結果。
+- [《生命導航學》體系發展參照地圖 v0.18](docs/system-development-map.md)：第四節改寫以「共同底稿就是承重點」為等式的一段，補門樞比喻、共同底稿兩層與承重的相對性；其餘不變。
+- [《實驗脈絡重力帳》修訂 10](research/research-ledger.md#ledger-revisions)：作者校正「共同底稿，就是承重點」一句；只加補註，原話與歷史讀法照原樣保留。非新實驗。
+- [《AI版奠基文件》先讀這裡](docs/ai-foundation-guide.md)：依 v0.8 更新，新增一條核心主張、一列對照與三個用語。
+
+2026-11-20（AI 版奠基文件 v0.7、體系地圖 v0.17）：
 - [《生命導航學》體系發展參照地圖 v0.17](docs/system-development-map.md)：校正「選樞」措辭，寫明樞不是事先挑的，而是在區分的那一刀中浮到前景，並補一段區分與生成相依；其餘不變。
 - [《實驗脈絡重力帳》修訂 9](research/research-ledger.md#return-20261120)：補錄 E14 之後治理演算法階段的位置，以及由演算法卡點回流母理論的一次轉向；非新實驗。
 - [《AI版奠基文件》先讀這裡](docs/ai-foundation-guide.md)：新增兩頁的閱讀入口，說明核心主張、與常見做法的差別、證據界線與依目的的讀法；不新增理論或實驗結果。

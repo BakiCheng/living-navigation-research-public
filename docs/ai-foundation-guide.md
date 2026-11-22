@@ -16,7 +16,8 @@
 4. **世界要會回應。** 牆阻斷不可走的路，坡讓偏離的後果回到行動迴路，橋把回報送到有資格承接的位置。三者作用不同，不能互相替代。（[第五部](ai-foundation.md#reading-032)）
 5. **框架和成果都會失格。** 路徑失敗與框架失格要分開。曾經有效的方法、量尺與文件，在條件改變後要能退位；退位撤銷的是當下效力，歷史仍然保存。（[第三部](ai-foundation.md#reading-019)、[第十四部](ai-foundation.md#reading-114)）
 6. **區分即生成，讀的是方向。** 判斷不是在兩個答案中挑一個：看出原本混在一起的兩件事那一刻，下一步就同時出現。讓關係轉動的那一處（文件稱為「樞」）不是事先選好的，而是在區分中浮到前景。在持續的工作流裡，一個階段目標達成也是讀數，會成為下一階段的材料；單一任務完成就停下，仍是正當的結果。（[4.2](ai-foundation.md#reading-028)、[9.4–9.5](ai-foundation.md#reading-073)、[14.1](ai-foundation.md#reading-116)、[附錄二第七節](ai-foundation.md#appendix-engineering-distinction-generation)）
-7. **生機不是分數。** 仍在運轉不等於有生機；局部的好結果要接回他者的代價；每個位置讀自己的方向，沒有人或系統替整個場算出總分。（[第十三部](ai-foundation.md#reading-105)、[13.7](ai-foundation.md#reading-112a)）
+7. **樞在第三位；共同底稿不等於承重。** 讓兩端分得出來的位置，不屬於任何一端，像門樞：自己不開也不合，開合卻因它分得出來、繞著它轉。共同底稿是此刻能一起站上去的東西，分物理事實與故事（事實加上推想）兩層；承重是這份底稿放到眼前這一步，撐得住多少。同一份底稿換一步，承重就不同；下一問落在重量所在的位置。（[4.2](ai-foundation.md#reading-028)、[附錄二第八節](ai-foundation.md#appendix-engineering-door-pivot)）
+8. **生機不是分數。** 仍在運轉不等於有生機；局部的好結果要接回他者的代價；每個位置讀自己的方向，沒有人或系統替整個場算出總分。（[第十三部](ai-foundation.md#reading-105)、[13.7](ai-foundation.md#reading-112a)）
 
 ## 和常見做法差在哪裡
 
@@ -29,27 +30,29 @@
 | 讓人類在迴路中確認 | 交給人之後，還要看人是否拿得到足以判斷的依據（[7.4](ai-foundation.md#reading-055)） |
 | 以固定目標與量尺優化，達標即停 | 量尺本身也會失去作用資格；持續工作流中，達標是讀數，不是停止讀取的訊號（[13.6](ai-foundation.md#reading-112)、[14.1](ai-foundation.md#reading-116)） |
 | 把判斷寫成在選項中挑一個答案 | 區分的同時就生成下一步；只貼上 A、B 標籤再照原劇本走，寫到的只是區分的外形（[附錄二第七節](ai-foundation.md#appendix-engineering-distinction-generation)） |
+| 給每筆資料一個固定的可信度 | 同一筆讀數撐得住這一步，未必撐得住下一步；在舊讀數被拿來支撐新的一步時檢查承重，並把事實和推想分開交出（[附錄二第八節](ai-foundation.md#appendix-engineering-door-pivot)） |
 
 ## 證據到哪裡為止
 
 - 研究包含十四輪探索性實驗（E1–E14），以小規模沙盒與單一作者設計為主；完整歷程與反例見[實驗脈絡重力帳](../research/research-ledger.md)。
-- 文件中的工程描述多為轉譯與查驗方向。有實驗支持的部分，正文與來源註標明其範圍。
+- 文件中的工程描述多為轉譯與查驗方向。有實驗支持的部分，正文與來源註標明其範圍；附錄二第七、八節所列接法都還沒有實作與驗證。
 - 第十四次實驗結案時，原定治理零件的效果未充分受測。之後轉向的治理演算法仍在 v0.x，尚未公開。
 - 作者確認、AI 的同意與文字的流暢，都不替代獨立實驗證據。可查與不可查的範圍見[來源與可查核範圍](../SOURCE_STATUS.md)。
 
 ## 依目的的讀法
 
-- **先抓主張：** [卷首](ai-foundation.md#reading-preface) → [第一部](ai-foundation.md#reading-005) → [第二部](ai-foundation.md#reading-011) → [4.1–4.2](ai-foundation.md#reading-027) → [附錄二第七節](ai-foundation.md#appendix-engineering-distinction-generation)。
+- **先抓主張：** [卷首](ai-foundation.md#reading-preface) → [第一部](ai-foundation.md#reading-005) → [第二部](ai-foundation.md#reading-011) → [4.1–4.2](ai-foundation.md#reading-027) → [附錄二第七節](ai-foundation.md#appendix-engineering-distinction-generation) → [第八節](ai-foundation.md#appendix-engineering-door-pivot)。
 - **代理系統的安全與工程：** [第二部](ai-foundation.md#reading-011)、[第四部](ai-foundation.md#reading-026)、[第五部](ai-foundation.md#reading-032)、[第七部](ai-foundation.md#reading-050)、[附錄二](ai-foundation.md#appendix-engineering-translation)。
 - **評測與量尺：** [第八部](ai-foundation.md#reading-057)、[第十三部](ai-foundation.md#reading-105)、[附錄二第六節](ai-foundation.md#appendix-engineering-holographic-bearing)。
-- **想看理論來源：** 先讀[體系發展參照地圖](system-development-map.md)，它是母理論的公開入口。
+- **想看理論來源：** 先讀[體系發展參照地圖](system-development-map.md)，它是母理論的公開入口，也是母理論與這份文件之間的樞。
 
 ## 幾個用語
 
 - **Reality：** 須被接觸與核對的現實，包括事實、他者的回應、時間、權限、代價與後果；不限於測試分數。
 - **讀數／第二讀數：** 讀數是此刻實際取得的材料；第二讀數是能和原判斷對照、來源獨立的另一份。
-- **承重：** 決定、責任、代價與後果，是否落在能承擔的位置。
-- **樞：** 使兩端可被區分、關係得以轉動的位置。它本身沒有內容，不是事先選好的元件。
+- **共同底稿：** 此刻能一起站上去的東西，分物理事實與故事（事實加上推想）兩層。事實夠用時只用事實；故事可以借來走一步，不能替事實作證。
+- **承重：** 決定、責任、代價與後果，是否落在能承擔的位置。它相對於此刻要走的那一步，不是材料自帶的固定重量。
+- **樞：** 使兩端可被區分、關係得以轉動的位置，像門樞，不屬於任何一端。它本身沒有內容，不是事先選好的元件。
 - **中介：** 依當下定位，讓必要關係實際接上的作用；可以是提問、轉達、邊界、減量或退出。
 - **退位：** 撤去失格事物的當下效力，同時保存它的歷史。
 - **UNKNOWN：** 保留為未知的狀態。它仍能支持有限而合格的下一步，但不能被想像補成事實。
@@ -57,4 +60,4 @@
 
 ---
 
-本頁為 2026-11-20 新增的閱讀入口，依《AI版奠基文件》v0.7 整理，不新增理論或實驗結果；內容若與全文有出入，以全文為準。
+本頁 v0.2（2026-11-22）依《AI版奠基文件》v0.8 更新：新增核心主張第 7 條、對照表末列，以及用語中的「共同底稿」「承重」「樞」。本頁不新增理論或實驗結果；內容若與全文有出入，以全文為準。
